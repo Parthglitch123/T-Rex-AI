@@ -8,7 +8,7 @@ __Step 1:__ Clone the repo and open it
 
 __Step 2:__ Open chrome and type "chrome://dino".
 
-__Step 3:__ Open the code-to-run.txt can copy the code.
+__Step 3:__ Open the code-to-run.txt and copy the code.
 
 __Step 4:__ Open Chrome and press F12 and paste the code.
 
