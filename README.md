@@ -10,6 +10,6 @@ __Step 2:__ Open chrome and type "chrome://dino".
 
 __Step 3:__ Press F12.
 
-__Step 4:__ Drag the js file into the console and press Enter.
+__Step 4:__ Copy the contents of code-to-run.txt and paste it the console.
 
 __Enjoy!__
